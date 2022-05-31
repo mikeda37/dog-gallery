@@ -1,0 +1,25 @@
+#root {
+  main {
+    .section.select-breed {
+      padding: 2rem 1rem;
+      .select-wrap {
+        padding: 0 1rem;
+
+        select[name='breed'] {
+          background-color: #363636;
+          color: #fff;
+          text-transform: capitalize;
+        }
+      }
+    }
+    .section.change-image-button {
+      padding: 0;
+    }
+    .section.gallery {
+      padding: 2rem 0;
+      .image-wrap {
+        text-align: center;
+      }
+    }
+  }
+}
