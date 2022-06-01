@@ -1,4 +1,4 @@
-# Dog Gallery
+# dog-gallery
 a various breeds dog gallery
 
 <div align="center"><img src="./docs/img/page_image.jpg" width="400"/></div>
