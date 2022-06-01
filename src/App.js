@@ -20,7 +20,7 @@ const Header = () => {
       <header className="hero is-dark is-bold">
         <div className="hero-body">
           <div className="container">
-            <h1 className="title">Cute Dog Pictures</h1>
+            <h1 className="title">Dog Gallery</h1>
           </div>
         </div>
       </header>
