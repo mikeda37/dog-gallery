@@ -5,10 +5,16 @@
       .select-wrap {
         padding: 0 1rem;
 
-        select[name='breed'] {
-          background-color: #363636;
-          color: #fff;
-          text-transform: capitalize;
+        .select {
+          &::after {
+            border-color: #fff;
+          }
+          
+          select[name='breed'] {
+            background-color: #363636;
+            color: #fff;
+            text-transform: capitalize;
+          }
         }
       }
     }
